@@ -1,0 +1,14 @@
+TP1
+
+question 2 : un répertoire .git a été créé.
+
+question 3 : git m'indique que mon txt git.txt n'a pas encore été add.
+
+question 4 : git m'indique que mon txt sera ajouté au prochain commit, et qu'il s'agit d'un nouveau fichier.
+
+question 5 : Nothing to commit, working tree clean
+
+question 6 : Cela nous donne l'historique des commit de notre dossier
+
+
+
